@@ -4,7 +4,7 @@ def resta():
     print("La suma es: ", num1-num2)
 
 def mult():
-    num1= int(input("Ingresa un número: "))
+    num1= int(input("Igresa un número: "))
     num2= int(input("Ingresa un número: "))
     print("La suma es: ", num1*num2)
 
